@@ -11,10 +11,10 @@ https://drive.google.com/drive/folders/1zlO4yDtQRSY7iDHr2bBaH-JgCn5Xubuy?usp=sha
 Opis:
 Po przyłożeniu breloka/karty do czytnika RFID uruchamiany jest wyświetlacz LCD.
 Użytkownik za pomocą joysticka przemieszcza się po opcjach menu umożliwiających np:
--włączenie/wyłączenie lampy, użycie przekaźnika
--zmianę aktualnego czasu (godzina:minuta)
--sprawdzenie pogody/zalogowanie się do JSOS
--włączenie odtwarzania muzyki w Spotify
+1. włączenie/wyłączenie lampy, użycie przekaźnika
+2. zmianę aktualnego czasu (godzina:minuta)
+3. sprawdzenie pogody/zalogowanie się do JSOS
+4. włączenie odtwarzania muzyki w Spotify
 
 
 Wykorzystane elementy:
