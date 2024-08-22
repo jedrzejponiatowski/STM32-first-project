@@ -1,4 +1,4 @@
-# STM32-first-project
+# STM32 IoT Project
 
 # 
 ![STM1](https://user-images.githubusercontent.com/72871744/169389309-8b638d61-f44a-4fd4-bbce-c6acdb4a4c43.jpg)
